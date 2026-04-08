@@ -14,6 +14,7 @@
   --shadow: #666;
   --green: #94c594;
   --purple: purple;
+  --blue: #4682B4;
   --font-family-primary: 'Trispace', sans-serif;
   --lightgreen: #a9dfbf;
   --margin-size-major: 50px;
@@ -45,7 +46,7 @@
 }
 
 .wrapper.-light .social-networks > .link {
-  color: var(--purple);
+  color: var(--blue);
 }
 
 .container { /* marjoritary content related */
@@ -100,7 +101,7 @@
 .social-networks > .link {
   font-size: var(--font-size-minimum);
   text-decoration: none;
-  color: var(--green);
+  color: var(--blue);
 }
 
 .main-footer > .copyright {
